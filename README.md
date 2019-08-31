@@ -1,2 +1,5 @@
 # free-proxy-list
-Free proxy list, updated every 4 hours. (txt / json)
++ Free proxy list, updated every 4 hours. (txt / json)
+  ```bash
+  curl https://raw.githubusercontent.com/h4mid007/free-proxy-list/master/proxies.txt
+  ```
