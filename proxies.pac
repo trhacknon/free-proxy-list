@@ -10,5 +10,5 @@ function FindProxyForURL(url, host) {
         return "DIRECT";
         
     //else
-        return "PROXY 91.214.179.5:8080;PROXY 192.41.13.71:3128;PROXY 181.119.69.153:3128;PROXY 181.119.158.1:3128;";
+        return "PROXY 161.97.84.211:3128;PROXY 35.153.142.15:3128;PROXY 23.237.74.98:3128;PROXY 80.23.125.226:3128;";
 }
